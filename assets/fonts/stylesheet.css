@@ -1,0 +1,46 @@
+@font-face {
+    font-family: avenir_black;
+    src: url('Avenir-Black.ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: avenir_book;
+    src: url('Avenir-Book.ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: avenir_heavy;
+    src: url('Avenir-Heavy.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: avenir_heavy_oblique;
+    src: url('Avenir-HeavyOblique.ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: avenir_light;
+    src: url('Avenir-Light.ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: avenir_medium;
+    src: url('Avenir-Medium.ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}
